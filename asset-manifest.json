@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ixarwebsite/static/css/main.ea90dfab.chunk.css",
-    "main.js": "/ixarwebsite/static/js/main.f5c73905.chunk.js",
-    "main.js.map": "/ixarwebsite/static/js/main.f5c73905.chunk.js.map",
+    "main.js": "/ixarwebsite/static/js/main.dbdbe7bb.chunk.js",
+    "main.js.map": "/ixarwebsite/static/js/main.dbdbe7bb.chunk.js.map",
     "runtime-main.js": "/ixarwebsite/static/js/runtime-main.6dea523a.js",
     "runtime-main.js.map": "/ixarwebsite/static/js/runtime-main.6dea523a.js.map",
     "static/css/2.ffda3d49.chunk.css": "/ixarwebsite/static/css/2.ffda3d49.chunk.css",
@@ -14,19 +14,32 @@
     "static/js/2.6ff53d20.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.6ff53d20.chunk.js.LICENSE.txt",
     "static/media/1.25746a5b.jpg": "/ixarwebsite/static/media/1.25746a5b.jpg",
     "static/media/App.css": "/ixarwebsite/static/media/img-home.c034239e.jpg",
+    "static/media/Inspection.6abcbdc7.jpg": "/ixarwebsite/static/media/Inspection.6abcbdc7.jpg",
     "static/media/Label3.ff42e503.jpg": "/ixarwebsite/static/media/Label3.ff42e503.jpg",
     "static/media/R1.f48e7327.jpg": "/ixarwebsite/static/media/R1.f48e7327.jpg",
     "static/media/ROV2.0a02a2e8.png": "/ixarwebsite/static/media/ROV2.0a02a2e8.png",
     "static/media/ROV4.231d510f.jpg": "/ixarwebsite/static/media/ROV4.231d510f.jpg",
     "static/media/RovDetails.fe83f720.jpg": "/ixarwebsite/static/media/RovDetails.fe83f720.jpg",
+    "static/media/bath.aee7d4a7.JPG": "/ixarwebsite/static/media/bath.aee7d4a7.JPG",
+    "static/media/bridge.07a0a170.jpg": "/ixarwebsite/static/media/bridge.07a0a170.jpg",
+    "static/media/dams.5bf8f7f6.jpg": "/ixarwebsite/static/media/dams.5bf8f7f6.jpg",
     "static/media/ixar.b4dac550.png": "/ixarwebsite/static/media/ixar.b4dac550.png",
-    "static/media/soft.9fa8629e.jpg": "/ixarwebsite/static/media/soft.9fa8629e.jpg"
+    "static/media/metalthickness.b09b231e.jpg": "/ixarwebsite/static/media/metalthickness.b09b231e.jpg",
+    "static/media/oils.703dc272.jpg": "/ixarwebsite/static/media/oils.703dc272.jpg",
+    "static/media/ports.f51b388f.jpg": "/ixarwebsite/static/media/ports.f51b388f.jpg",
+    "static/media/power.8391705f.jpg": "/ixarwebsite/static/media/power.8391705f.jpg",
+    "static/media/rd.8240f347.jpg": "/ixarwebsite/static/media/rd.8240f347.jpg",
+    "static/media/scaling.2544c73f.jpg": "/ixarwebsite/static/media/scaling.2544c73f.jpg",
+    "static/media/shi.eaaa1786.jpg": "/ixarwebsite/static/media/shi.eaaa1786.jpg",
+    "static/media/soft.9fa8629e.jpg": "/ixarwebsite/static/media/soft.9fa8629e.jpg",
+    "static/media/sonar1.278dbf72.jpg": "/ixarwebsite/static/media/sonar1.278dbf72.jpg",
+    "static/media/video-3.4cbc3697.mp4": "/ixarwebsite/static/media/video-3.4cbc3697.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.6dea523a.js",
     "static/css/2.ffda3d49.chunk.css",
     "static/js/2.6ff53d20.chunk.js",
     "static/css/main.ea90dfab.chunk.css",
-    "static/js/main.f5c73905.chunk.js"
+    "static/js/main.dbdbe7bb.chunk.js"
   ]
 }
