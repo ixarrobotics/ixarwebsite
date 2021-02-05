@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/ixarwebsite/static/css/main.4b5f3ca0.chunk.css",
-    "main.js": "/ixarwebsite/static/js/main.993dbd07.chunk.js",
-    "main.js.map": "/ixarwebsite/static/js/main.993dbd07.chunk.js.map",
+    "main.css": "/ixarwebsite/static/css/main.6d3113a0.chunk.css",
+    "main.js": "/ixarwebsite/static/js/main.98f3a057.chunk.js",
+    "main.js.map": "/ixarwebsite/static/js/main.98f3a057.chunk.js.map",
     "runtime-main.js": "/ixarwebsite/static/js/runtime-main.6dea523a.js",
     "runtime-main.js.map": "/ixarwebsite/static/js/runtime-main.6dea523a.js.map",
     "static/css/2.9a906cca.chunk.css": "/ixarwebsite/static/css/2.9a906cca.chunk.css",
-    "static/js/2.faca1418.chunk.js": "/ixarwebsite/static/js/2.faca1418.chunk.js",
-    "static/js/2.faca1418.chunk.js.map": "/ixarwebsite/static/js/2.faca1418.chunk.js.map",
+    "static/js/2.f94259e5.chunk.js": "/ixarwebsite/static/js/2.f94259e5.chunk.js",
+    "static/js/2.f94259e5.chunk.js.map": "/ixarwebsite/static/js/2.f94259e5.chunk.js.map",
     "index.html": "/ixarwebsite/index.html",
     "static/css/2.9a906cca.chunk.css.map": "/ixarwebsite/static/css/2.9a906cca.chunk.css.map",
-    "static/css/main.4b5f3ca0.chunk.css.map": "/ixarwebsite/static/css/main.4b5f3ca0.chunk.css.map",
-    "static/js/2.faca1418.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.faca1418.chunk.js.LICENSE.txt",
+    "static/css/main.6d3113a0.chunk.css.map": "/ixarwebsite/static/css/main.6d3113a0.chunk.css.map",
+    "static/js/2.f94259e5.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.f94259e5.chunk.js.LICENSE.txt",
     "static/media/1.25746a5b.jpg": "/ixarwebsite/static/media/1.25746a5b.jpg",
     "static/media/App.css": "/ixarwebsite/static/media/img-home.c034239e.jpg",
+    "static/media/Cater.b25ac51e.png": "/ixarwebsite/static/media/Cater.b25ac51e.png",
+    "static/media/F.07211932.jpg": "/ixarwebsite/static/media/F.07211932.jpg",
     "static/media/Inspection.6abcbdc7.jpg": "/ixarwebsite/static/media/Inspection.6abcbdc7.jpg",
     "static/media/Label3.ff42e503.jpg": "/ixarwebsite/static/media/Label3.ff42e503.jpg",
     "static/media/R1.f48e7327.jpg": "/ixarwebsite/static/media/R1.f48e7327.jpg",
@@ -39,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.6dea523a.js",
     "static/css/2.9a906cca.chunk.css",
-    "static/js/2.faca1418.chunk.js",
-    "static/css/main.4b5f3ca0.chunk.css",
-    "static/js/main.993dbd07.chunk.js"
+    "static/js/2.f94259e5.chunk.js",
+    "static/css/main.6d3113a0.chunk.css",
+    "static/js/main.98f3a057.chunk.js"
   ]
 }
