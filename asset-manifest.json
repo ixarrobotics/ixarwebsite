@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ixarwebsite/static/css/main.d01264c2.chunk.css",
-    "main.js": "/ixarwebsite/static/js/main.4e682dcb.chunk.js",
-    "main.js.map": "/ixarwebsite/static/js/main.4e682dcb.chunk.js.map",
+    "main.js": "/ixarwebsite/static/js/main.eb16ed9e.chunk.js",
+    "main.js.map": "/ixarwebsite/static/js/main.eb16ed9e.chunk.js.map",
     "runtime-main.js": "/ixarwebsite/static/js/runtime-main.6dea523a.js",
     "runtime-main.js.map": "/ixarwebsite/static/js/runtime-main.6dea523a.js.map",
     "static/css/2.9a906cca.chunk.css": "/ixarwebsite/static/css/2.9a906cca.chunk.css",
-    "static/js/2.42bb5a95.chunk.js": "/ixarwebsite/static/js/2.42bb5a95.chunk.js",
-    "static/js/2.42bb5a95.chunk.js.map": "/ixarwebsite/static/js/2.42bb5a95.chunk.js.map",
+    "static/js/2.a5554eef.chunk.js": "/ixarwebsite/static/js/2.a5554eef.chunk.js",
+    "static/js/2.a5554eef.chunk.js.map": "/ixarwebsite/static/js/2.a5554eef.chunk.js.map",
     "index.html": "/ixarwebsite/index.html",
     "static/css/2.9a906cca.chunk.css.map": "/ixarwebsite/static/css/2.9a906cca.chunk.css.map",
     "static/css/main.d01264c2.chunk.css.map": "/ixarwebsite/static/css/main.d01264c2.chunk.css.map",
-    "static/js/2.42bb5a95.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.42bb5a95.chunk.js.LICENSE.txt",
+    "static/js/2.a5554eef.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.a5554eef.chunk.js.LICENSE.txt",
     "static/media/1.25746a5b.jpg": "/ixarwebsite/static/media/1.25746a5b.jpg",
     "static/media/App.css": "/ixarwebsite/static/media/img-home.c034239e.jpg",
     "static/media/Cater.b25ac51e.png": "/ixarwebsite/static/media/Cater.b25ac51e.png",
@@ -45,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.6dea523a.js",
     "static/css/2.9a906cca.chunk.css",
-    "static/js/2.42bb5a95.chunk.js",
+    "static/js/2.a5554eef.chunk.js",
     "static/css/main.d01264c2.chunk.css",
-    "static/js/main.4e682dcb.chunk.js"
+    "static/js/main.eb16ed9e.chunk.js"
   ]
 }
