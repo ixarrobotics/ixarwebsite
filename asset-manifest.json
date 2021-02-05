@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ixarwebsite/static/css/main.6d3113a0.chunk.css",
-    "main.js": "/ixarwebsite/static/js/main.0068317d.chunk.js",
-    "main.js.map": "/ixarwebsite/static/js/main.0068317d.chunk.js.map",
+    "main.css": "/ixarwebsite/static/css/main.1a595dc3.chunk.css",
+    "main.js": "/ixarwebsite/static/js/main.fa4ea029.chunk.js",
+    "main.js.map": "/ixarwebsite/static/js/main.fa4ea029.chunk.js.map",
     "runtime-main.js": "/ixarwebsite/static/js/runtime-main.6dea523a.js",
     "runtime-main.js.map": "/ixarwebsite/static/js/runtime-main.6dea523a.js.map",
     "static/css/2.9a906cca.chunk.css": "/ixarwebsite/static/css/2.9a906cca.chunk.css",
-    "static/js/2.f94259e5.chunk.js": "/ixarwebsite/static/js/2.f94259e5.chunk.js",
-    "static/js/2.f94259e5.chunk.js.map": "/ixarwebsite/static/js/2.f94259e5.chunk.js.map",
+    "static/js/2.faca1418.chunk.js": "/ixarwebsite/static/js/2.faca1418.chunk.js",
+    "static/js/2.faca1418.chunk.js.map": "/ixarwebsite/static/js/2.faca1418.chunk.js.map",
     "index.html": "/ixarwebsite/index.html",
     "static/css/2.9a906cca.chunk.css.map": "/ixarwebsite/static/css/2.9a906cca.chunk.css.map",
-    "static/css/main.6d3113a0.chunk.css.map": "/ixarwebsite/static/css/main.6d3113a0.chunk.css.map",
-    "static/js/2.f94259e5.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.f94259e5.chunk.js.LICENSE.txt",
+    "static/css/main.1a595dc3.chunk.css.map": "/ixarwebsite/static/css/main.1a595dc3.chunk.css.map",
+    "static/js/2.faca1418.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.faca1418.chunk.js.LICENSE.txt",
     "static/media/1.25746a5b.jpg": "/ixarwebsite/static/media/1.25746a5b.jpg",
     "static/media/App.css": "/ixarwebsite/static/media/img-home.c034239e.jpg",
     "static/media/Cater.b25ac51e.png": "/ixarwebsite/static/media/Cater.b25ac51e.png",
@@ -24,9 +24,11 @@
     "static/media/Rishi.8feb0a3c.jpg": "/ixarwebsite/static/media/Rishi.8feb0a3c.jpg",
     "static/media/RovDetails.fe83f720.jpg": "/ixarwebsite/static/media/RovDetails.fe83f720.jpg",
     "static/media/Thruster1.7fd9c759.jpg": "/ixarwebsite/static/media/Thruster1.7fd9c759.jpg",
+    "static/media/ashish.eef20cb5.jpeg": "/ixarwebsite/static/media/ashish.eef20cb5.jpeg",
     "static/media/bath.aee7d4a7.JPG": "/ixarwebsite/static/media/bath.aee7d4a7.JPG",
     "static/media/bridge.07a0a170.jpg": "/ixarwebsite/static/media/bridge.07a0a170.jpg",
     "static/media/dams.5bf8f7f6.jpg": "/ixarwebsite/static/media/dams.5bf8f7f6.jpg",
+    "static/media/harsh.c8678c8c.jpg": "/ixarwebsite/static/media/harsh.c8678c8c.jpg",
     "static/media/ixar.b4dac550.png": "/ixarwebsite/static/media/ixar.b4dac550.png",
     "static/media/metalthickness.b09b231e.jpg": "/ixarwebsite/static/media/metalthickness.b09b231e.jpg",
     "static/media/oils.703dc272.jpg": "/ixarwebsite/static/media/oils.703dc272.jpg",
@@ -36,13 +38,15 @@
     "static/media/scaling.2544c73f.jpg": "/ixarwebsite/static/media/scaling.2544c73f.jpg",
     "static/media/shi.eaaa1786.jpg": "/ixarwebsite/static/media/shi.eaaa1786.jpg",
     "static/media/soft.9fa8629e.jpg": "/ixarwebsite/static/media/soft.9fa8629e.jpg",
-    "static/media/sonar1.278dbf72.jpg": "/ixarwebsite/static/media/sonar1.278dbf72.jpg"
+    "static/media/sonar1.278dbf72.jpg": "/ixarwebsite/static/media/sonar1.278dbf72.jpg",
+    "static/media/suraj.79889b79.jpeg": "/ixarwebsite/static/media/suraj.79889b79.jpeg",
+    "static/media/vipin.04664e03.jpeg": "/ixarwebsite/static/media/vipin.04664e03.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.6dea523a.js",
     "static/css/2.9a906cca.chunk.css",
-    "static/js/2.f94259e5.chunk.js",
-    "static/css/main.6d3113a0.chunk.css",
-    "static/js/main.0068317d.chunk.js"
+    "static/js/2.faca1418.chunk.js",
+    "static/css/main.1a595dc3.chunk.css",
+    "static/js/main.fa4ea029.chunk.js"
   ]
 }
