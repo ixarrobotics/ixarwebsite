@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ixarwebsite/static/css/main.816a046e.chunk.css",
-    "main.js": "/ixarwebsite/static/js/main.47635318.chunk.js",
-    "main.js.map": "/ixarwebsite/static/js/main.47635318.chunk.js.map",
+    "main.js": "/ixarwebsite/static/js/main.09df9a79.chunk.js",
+    "main.js.map": "/ixarwebsite/static/js/main.09df9a79.chunk.js.map",
     "runtime-main.js": "/ixarwebsite/static/js/runtime-main.6dea523a.js",
     "runtime-main.js.map": "/ixarwebsite/static/js/runtime-main.6dea523a.js.map",
     "static/css/2.9a906cca.chunk.css": "/ixarwebsite/static/css/2.9a906cca.chunk.css",
@@ -24,10 +24,12 @@
     "static/media/Rishi.8feb0a3c.jpg": "/ixarwebsite/static/media/Rishi.8feb0a3c.jpg",
     "static/media/RovDetails.fe83f720.jpg": "/ixarwebsite/static/media/RovDetails.fe83f720.jpg",
     "static/media/Thruster1.7fd9c759.jpg": "/ixarwebsite/static/media/Thruster1.7fd9c759.jpg",
+    "static/media/VI.36071448.jpg": "/ixarwebsite/static/media/VI.36071448.jpg",
     "static/media/address1.79952374.jpg": "/ixarwebsite/static/media/address1.79952374.jpg",
     "static/media/ashish.eef20cb5.jpeg": "/ixarwebsite/static/media/ashish.eef20cb5.jpeg",
     "static/media/bath.aee7d4a7.JPG": "/ixarwebsite/static/media/bath.aee7d4a7.JPG",
     "static/media/bridge.07a0a170.jpg": "/ixarwebsite/static/media/bridge.07a0a170.jpg",
+    "static/media/contacth.07fe97a9.jpg": "/ixarwebsite/static/media/contacth.07fe97a9.jpg",
     "static/media/dams.5bf8f7f6.jpg": "/ixarwebsite/static/media/dams.5bf8f7f6.jpg",
     "static/media/harsh.c8678c8c.jpg": "/ixarwebsite/static/media/harsh.c8678c8c.jpg",
     "static/media/ixar.b4dac550.png": "/ixarwebsite/static/media/ixar.b4dac550.png",
@@ -35,14 +37,16 @@
     "static/media/oils.703dc272.jpg": "/ixarwebsite/static/media/oils.703dc272.jpg",
     "static/media/ports.f51b388f.jpg": "/ixarwebsite/static/media/ports.f51b388f.jpg",
     "static/media/power.8391705f.jpg": "/ixarwebsite/static/media/power.8391705f.jpg",
+    "static/media/producth.ec23d404.jpg": "/ixarwebsite/static/media/producth.ec23d404.jpg",
     "static/media/rd.8240f347.jpg": "/ixarwebsite/static/media/rd.8240f347.jpg",
     "static/media/rohit.a8f1ad1c.jpeg": "/ixarwebsite/static/media/rohit.a8f1ad1c.jpeg",
     "static/media/scaling.2544c73f.jpg": "/ixarwebsite/static/media/scaling.2544c73f.jpg",
-    "static/media/serv.e96a7f35.jpg": "/ixarwebsite/static/media/serv.e96a7f35.jpg",
+    "static/media/serviceh.5ee86f20.jpg": "/ixarwebsite/static/media/serviceh.5ee86f20.jpg",
     "static/media/shi.eaaa1786.jpg": "/ixarwebsite/static/media/shi.eaaa1786.jpg",
     "static/media/soft.9fa8629e.jpg": "/ixarwebsite/static/media/soft.9fa8629e.jpg",
     "static/media/sonar1.278dbf72.jpg": "/ixarwebsite/static/media/sonar1.278dbf72.jpg",
     "static/media/suraj.79889b79.jpeg": "/ixarwebsite/static/media/suraj.79889b79.jpeg",
+    "static/media/teamh.30ea403b.jpg": "/ixarwebsite/static/media/teamh.30ea403b.jpg",
     "static/media/vipin.04664e03.jpeg": "/ixarwebsite/static/media/vipin.04664e03.jpeg"
   },
   "entrypoints": [
@@ -50,6 +54,6 @@
     "static/css/2.9a906cca.chunk.css",
     "static/js/2.df40dfbd.chunk.js",
     "static/css/main.816a046e.chunk.css",
-    "static/js/main.47635318.chunk.js"
+    "static/js/main.09df9a79.chunk.js"
   ]
 }
