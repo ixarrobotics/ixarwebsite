@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ixarwebsite/static/css/main.d01264c2.chunk.css",
-    "main.js": "/ixarwebsite/static/js/main.a1c56581.chunk.js",
-    "main.js.map": "/ixarwebsite/static/js/main.a1c56581.chunk.js.map",
+    "main.css": "/ixarwebsite/static/css/main.816a046e.chunk.css",
+    "main.js": "/ixarwebsite/static/js/main.37b12a3a.chunk.js",
+    "main.js.map": "/ixarwebsite/static/js/main.37b12a3a.chunk.js.map",
     "runtime-main.js": "/ixarwebsite/static/js/runtime-main.6dea523a.js",
     "runtime-main.js.map": "/ixarwebsite/static/js/runtime-main.6dea523a.js.map",
     "static/css/2.9a906cca.chunk.css": "/ixarwebsite/static/css/2.9a906cca.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.df40dfbd.chunk.js.map": "/ixarwebsite/static/js/2.df40dfbd.chunk.js.map",
     "index.html": "/ixarwebsite/index.html",
     "static/css/2.9a906cca.chunk.css.map": "/ixarwebsite/static/css/2.9a906cca.chunk.css.map",
-    "static/css/main.d01264c2.chunk.css.map": "/ixarwebsite/static/css/main.d01264c2.chunk.css.map",
+    "static/css/main.816a046e.chunk.css.map": "/ixarwebsite/static/css/main.816a046e.chunk.css.map",
     "static/js/2.df40dfbd.chunk.js.LICENSE.txt": "/ixarwebsite/static/js/2.df40dfbd.chunk.js.LICENSE.txt",
     "static/media/1.25746a5b.jpg": "/ixarwebsite/static/media/1.25746a5b.jpg",
     "static/media/App.css": "/ixarwebsite/static/media/img-home.c034239e.jpg",
@@ -35,6 +35,7 @@
     "static/media/ports.f51b388f.jpg": "/ixarwebsite/static/media/ports.f51b388f.jpg",
     "static/media/power.8391705f.jpg": "/ixarwebsite/static/media/power.8391705f.jpg",
     "static/media/rd.8240f347.jpg": "/ixarwebsite/static/media/rd.8240f347.jpg",
+    "static/media/rohit.a8f1ad1c.jpeg": "/ixarwebsite/static/media/rohit.a8f1ad1c.jpeg",
     "static/media/scaling.2544c73f.jpg": "/ixarwebsite/static/media/scaling.2544c73f.jpg",
     "static/media/shi.eaaa1786.jpg": "/ixarwebsite/static/media/shi.eaaa1786.jpg",
     "static/media/soft.9fa8629e.jpg": "/ixarwebsite/static/media/soft.9fa8629e.jpg",
@@ -46,7 +47,7 @@
     "static/js/runtime-main.6dea523a.js",
     "static/css/2.9a906cca.chunk.css",
     "static/js/2.df40dfbd.chunk.js",
-    "static/css/main.d01264c2.chunk.css",
-    "static/js/main.a1c56581.chunk.js"
+    "static/css/main.816a046e.chunk.css",
+    "static/js/main.37b12a3a.chunk.js"
   ]
 }
